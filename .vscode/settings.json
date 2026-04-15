@@ -1,6 +1,5 @@
 {
     "rust-analyzer.trace.server": "verbose",
-    "rust-analyzer.server.path": "/home/antonio-moreira/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/rust-analyzer",
     "rust-analyzer.check.command": "clippy",
     "cSpell.words": [
         "Clippy",
