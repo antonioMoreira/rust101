@@ -3,4 +3,5 @@ fn main() {
     let y: i32 = 10;
     println!("Hello, world! {x}");
     println!("Hello, world! {y}");
+
 }

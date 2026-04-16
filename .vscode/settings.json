@@ -1,8 +1,10 @@
 {
     "rust-analyzer.trace.server": "verbose",
     "rust-analyzer.check.command": "clippy",
+    "editor.formatOnType": true,
     "cSpell.words": [
         "Clippy",
+        "LLDB",
         "println"
     ]
 }

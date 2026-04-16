@@ -1,5 +1,9 @@
 # Rust 101
 
+# TODO
+
+- [ ] Learn to use [CodeLLDB](https://github.com/vadimcn/codelldb/tree/master)
+
 
 # Log Level at Antigravity
 
