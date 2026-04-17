@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rust-development",
+  "owner": "laurigates",
+  "repo": "claude-plugins",
+  "path": "rust-plugin/skills/rust-development",
+  "branch": "main",
+  "sha": "0411887b78cc145cb7614d771b2629a036558ead",
+  "source": "manual"
+}
